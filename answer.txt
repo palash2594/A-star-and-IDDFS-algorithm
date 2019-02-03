@@ -1,0 +1,4723 @@
+/home/palash/PycharmProjects/FIS/venv/bin/python /home/palash/PycharmProjects/FIS/Project1/Graph.py
+Current 1 False {2: 0}
+No Path Found
+depth 0
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+No Path Found
+depth 1
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+No Path Found
+depth 2
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+No Path Found
+depth 3
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+No Path Found
+depth 4
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+No Path Found
+depth 5
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+No Path Found
+depth 6
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+No Path Found
+depth 7
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+No Path Found
+depth 8
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+No Path Found
+depth 9
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+No Path Found
+depth 10
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+No Path Found
+depth 11
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+No Path Found
+depth 12
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+No Path Found
+depth 13
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+No Path Found
+depth 14
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+No Path Found
+depth 15
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+No Path Found
+depth 16
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+No Path Found
+depth 17
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+No Path Found
+depth 18
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+No Path Found
+depth 19
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+No Path Found
+depth 20
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+No Path Found
+depth 21
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+No Path Found
+depth 22
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+No Path Found
+depth 23
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+No Path Found
+depth 24
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+No Path Found
+depth 25
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+No Path Found
+depth 26
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+No Path Found
+depth 27
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+No Path Found
+depth 28
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+No Path Found
+depth 29
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+No Path Found
+depth 30
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+No Path Found
+depth 31
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+No Path Found
+depth 32
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+No Path Found
+depth 33
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+No Path Found
+depth 34
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+No Path Found
+depth 35
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+No Path Found
+depth 36
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+No Path Found
+depth 37
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+No Path Found
+depth 38
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+No Path Found
+depth 39
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+No Path Found
+depth 40
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+No Path Found
+depth 41
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+No Path Found
+depth 42
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+No Path Found
+depth 43
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+No Path Found
+depth 44
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+No Path Found
+depth 45
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+No Path Found
+depth 46
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+No Path Found
+depth 47
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+No Path Found
+depth 48
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+No Path Found
+depth 49
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+No Path Found
+depth 50
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+No Path Found
+depth 51
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+No Path Found
+depth 52
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+No Path Found
+depth 53
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+No Path Found
+depth 54
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+No Path Found
+depth 55
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+No Path Found
+depth 56
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+No Path Found
+depth 57
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+No Path Found
+depth 58
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+No Path Found
+depth 59
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+No Path Found
+depth 60
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+No Path Found
+depth 61
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+No Path Found
+depth 62
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+No Path Found
+depth 63
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 64
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 65
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 66
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 67
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 68
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 69
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 70
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 71
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 72
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 73
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 74
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 75
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 76
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 77
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 78
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 79
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 80
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 81
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 82
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 83
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 84
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 85
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 86
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 87
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 88
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 89
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 90
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 91
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 92
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 93
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 94
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 95
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 96
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 97
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 98
+_________________________*************************************_________________________
+Current 1 False {2: 0}
+Current 2 False {1: 0, 22: 0, 3: 0}
+Current 3 False {2: 0, 23: 0}
+Current 23 False {3: 0, 22: 0, 43: 0, 24: 0}
+Current 24 False {23: 0, 25: 0}
+Current 25 False {5: 0, 24: 0, 45: 0, 26: 0}
+Current 26 False {6: 0, 25: 0, 46: 0, 27: 0}
+Current 27 False {26: 0, 47: 0, 28: 0}
+Current 28 False {8: 0, 27: 0, 48: 0}
+Current 48 False {28: 0, 47: 0, 49: 0}
+Current 49 False {48: 0, 69: 0}
+Current 69 False {49: 0, 70: 0}
+Current 70 False {69: 0, 71: 0}
+Current 71 False {70: 0, 72: 0}
+Current 72 False {71: 0, 92: 0}
+Current 92 False {72: 0, 112: 0, 93: 0}
+Current 93 False {92: 0, 94: 0}
+Current 94 False {74: 0, 93: 0, 95: 0}
+Current 95 False {75: 0, 94: 0, 115: 0, 96: 0}
+Current 96 False {76: 0, 95: 0, 116: 0}
+Current 116 False {96: 0, 115: 0, 136: 0, 117: 0}
+Current 117 False {116: 0, 118: 0}
+Current 118 False {117: 0, 138: 0, 119: 0}
+Current 119 False {99: 0, 118: 0, 139: 0, 120: 0}
+Current 120 False {100: 0, 119: 0}
+Current 100 False {99: 0, 120: 0}
+Current 99 False {79: 0, 119: 0, 100: 0}
+Current 79 False {59: 0, 78: 0, 99: 0}
+Current 78 False {79: 0}
+Current 59 False {39: 0, 79: 0}
+Current 39 False {38: 0, 59: 0, 40: 0}
+Current 40 False {39: 0}
+Current 38 False {18: 0, 37: 0, 39: 0}
+Current 37 False {17: 0, 57: 0, 38: 0}
+Current 57 False {37: 0, 56: 0}
+Current 56 False {76: 0, 57: 0}
+Current 76 False {56: 0, 75: 0, 96: 0}
+Current 75 False {74: 0, 95: 0, 76: 0}
+Current 74 False {94: 0, 75: 0}
+Current 17 False {16: 0, 37: 0, 18: 0}
+Current 18 False {17: 0, 38: 0}
+Current 16 False {15: 0, 17: 0}
+Current 15 False {14: 0, 16: 0}
+Current 14 False {13: 0, 34: 0, 15: 0}
+Current 34 False {14: 0, 33: 0}
+Current 33 False {13: 0, 32: 0, 53: 0, 34: 0}
+Current 53 False {33: 0}
+Current 32 False {31: 0, 33: 0}
+Current 31 False {11: 0, 30: 0, 32: 0}
+Current 30 False {10: 0, 31: 0}
+Current 10 False {9: 0, 30: 0, 11: 0}
+Current 11 False {10: 0, 31: 0}
+Current 9 False {8: 0, 10: 0}
+Current 8 False {28: 0, 9: 0}
+Current 11 False {10: 0, 31: 0}
+Current 13 False {33: 0, 14: 0}
+Current 13 False {33: 0, 14: 0}
+Current 18 False {17: 0, 38: 0}
+Current 139 False {119: 0, 138: 0}
+Current 138 False {118: 0, 158: 0, 139: 0}
+Current 158 False {138: 0, 178: 0}
+Current 178 False {158: 0, 177: 0, 179: 0}
+Current 179 False {178: 0, 199: 0}
+Current 199 False {179: 0, 200: 0}
+Current 200 False {199: 0}
+Path exist
+depth 99
+_________________________*************************************_________________________
+
+Process finished with exit code 0

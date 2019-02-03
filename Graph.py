@@ -97,21 +97,26 @@ def prepare_graph(maze):
     return graph
 
 
-def dfs(graph):
+def iddfs(graph, depth, row, column):
     # for key, value in graph.vertices.items():
     #     print(key, value)
 
+    current_depth = 0
+    path_flag = False
     visited = list()
     to_explore = list()
 
     if (graph.getVertex(1)):
         to_explore.append(graph.getVertex(1))
 
-        while to_explore:
+        while to_explore and current_depth <= depth:
             current = to_explore.pop()
-            print("Current", current)
-            if current.value == 200:
+            # print("Current", current)
+            print(current.value, "--> ", end = "")
+            if current.value == row * column:
+                path_flag = True
                 print("Path exist")
+                return True
                 break
             visited.append(current.value)
             current_children = current.edges
@@ -119,9 +124,18 @@ def dfs(graph):
                 if key not in visited:
                     to_explore.append(graph.getVertex(key))
 
+            current_depth += 1
+
 
     else:  # start point not present
         print("No path found")
+
+    if path_flag is False:
+        print("No Path Found")
+        return False
+
+    print("depth", depth)
+    print("_________________________*************************************_________________________")
 
 
 def main():
@@ -185,7 +199,11 @@ def main():
 
     # print(graph)
 
-    dfs(graph)
+    for i in range(100):
+        path_found = iddfs(graph, i, len(maze), len(maze[0]))
+        if path_found is True:
+            print("Path found at depth: ", i)
+            break
     #
     # for key, value in graph.vertices.items():
     #     print(key, value)
