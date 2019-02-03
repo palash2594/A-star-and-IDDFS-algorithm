@@ -1,3 +1,5 @@
+import time
+
 class Vertex:
     __slots__ = "obstacle", "value", "edges"
 
@@ -156,12 +158,15 @@ def main():
     graph = prepare_graph(maze)
 
     # print(graph)
+    start_time = time.time()
 
     for i in range(100):
         path_found = iddfs(graph, i, len(maze), len(maze[0]))
         if path_found is True:
             print("Path found at depth: ", i)
             break
+
+    print("Time taken in IDDFS -> %s seconds" % (time.time() - start_time))
     #
     # for key, value in graph.vertices.items():
     #     print(key, value)
