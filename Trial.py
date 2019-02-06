@@ -1,14 +1,10 @@
 def main():
-    l = list()
-    l.append(2)
-    l.append(3)
+    d = dict()
+    d["1"] = 1
+    d["2"] = 2
 
-    # print(l.index(3))
+    for key, value in d.items():
+        print(key)
 
-    while l:
-        print(l.pop())
-
-    if not l:
-        print("Finally empty")
 
 main()

@@ -1,5 +1,6 @@
 import time
 
+
 class Vertex:
     __slots__ = "obstacle", "value", "edges"
 
@@ -98,6 +99,54 @@ def prepare_graph(maze):
 
     return graph
 
+def iddfs1(graph, depth, row, column):
+    # for key, value in graph.vertices.items():
+    #     print(key, value)
+
+    current_depth = 0
+    path_flag = False
+    visited = list()
+    to_explore = dict()
+
+    if (graph.getVertex(1)):
+        to_explore[graph.getVertex(1)] = 1
+
+        while to_explore:
+            for key, value in to_explore.items():
+                current = key
+                # print(type(key))
+                current_depth = value
+                to_explore.pop(key)
+                break
+            # print("Current", current)
+            # print(current.value, "--> ", end="")
+            if current.value == row * column:
+                path_flag = True
+                print("Path exist")
+                return True
+                break
+            visited.append(current.value)
+            current_children = current.edges
+            for key, value in current_children.items():
+                if key not in visited and current_depth <= depth:
+                    to_explore[graph.getVertex(key)] = current_depth + 1
+
+
+    if depth%10 == 0:
+        print(depth)
+
+
+    else:  # start point not present
+        # print("No path found")
+        pass
+
+    if path_flag is False:
+        # print("No Path Found")
+        return False
+
+    print("depth", depth)
+    print("_________________________*************************************_________________________")
+
 
 def iddfs(graph, depth, row, column):
     # for key, value in graph.vertices.items():
@@ -114,7 +163,7 @@ def iddfs(graph, depth, row, column):
         while to_explore and current_depth <= depth:
             current = to_explore.pop()
             # print("Current", current)
-            print(current.value, "--> ", end = "")
+            # print(current.value, "--> ", end="")
             if current.value == row * column:
                 path_flag = True
                 print("Path exist")
@@ -126,18 +175,46 @@ def iddfs(graph, depth, row, column):
                 if key not in visited:
                     to_explore.append(graph.getVertex(key))
 
-            current_depth += 1
+            current_depth += 1                      
 
 
     else:  # start point not present
-        print("No path found")
+        # print("No path found")
+        pass
 
     if path_flag is False:
-        print("No Path Found")
+        # print("No Path Found")
         return False
 
     print("depth", depth)
     print("_________________________*************************************_________________________")
+
+
+def a_star(graph, heuristic):
+    if heuristic == "euclidean":
+        visited = list()
+        to_explore = list()
+
+        if (graph.getVertex(1)):
+            to_explore.append(graph.getVertex(1))
+
+            while to_explore:
+                current = to_explore.pop()
+                # print("current", current)
+                visited.append(current)
+
+                # if current =
+        else:
+            print("no path found")
+
+    elif heuristic == "manhattan":
+        pass
+
+    elif heuristic == "random":
+        pass
+
+    elif heuristic == "nocostdist":
+        pass
 
 
 def main():
@@ -153,17 +230,16 @@ def main():
 
     # print(g.getVertex(v7))
 
-
     maze = file_read("test1")
     graph = prepare_graph(maze)
 
     # print(graph)
     start_time = time.time()
 
-    for i in range(100):
-        path_found = iddfs(graph, i, len(maze), len(maze[0]))
+    for i in range(10000):
+        path_found = iddfs1(graph, i, len(maze), len(maze[0]))
         if path_found is True:
-            print("Path found at depth: ", i)
+            print("Path found at depth: ", i + 1)
             break
 
     print("Time taken in IDDFS -> %s seconds" % (time.time() - start_time))
