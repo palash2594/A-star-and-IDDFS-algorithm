@@ -1,6 +1,5 @@
 import time
 
-
 class Vertex:
     __slots__ = "obstacle", "value", "edges"
 
@@ -230,7 +229,7 @@ def main():
 
     # print(g.getVertex(v7))
 
-    maze = file_read("test1")
+    maze = file_read("test.txt")
     graph = prepare_graph(maze)
 
     # print(graph)

@@ -11,7 +11,7 @@ class Minheap:
         return 2 * parentIndex + 2;
 
     def getIndexOfParent(self, childIndex):
-        return (childIndex - 1) / 2;
+        return (childIndex - 1) // 2;
 
     def hasLeftChild(self, index):
         return self.getIndexOfLeftChild(index) < len(self.items)
@@ -45,6 +45,7 @@ class Minheap:
         item = self.items[0]
         self.items[0] = self.items[len(self.items) - 1]
         self.heapifyDown()
+        del self.items[-1]
         return item
 
     def addElement(self, item):
@@ -54,7 +55,7 @@ class Minheap:
     def heapifyUp(self):
         item = self.items[len(self.items) - 1]
         index = len(self.items) - 1
-        while self.hasParent(index) and self.items[self.parent(index)] > self.items[index]:
+        while self.hasParent(index) and self.parent(index) > self.items[index]:
             self.swap(index, self.getIndexOfParent(index))
             index = self.getIndexOfParent(index)
 
@@ -75,6 +76,19 @@ class Minheap:
 def main():
     size = 0
     items = list()
+    heap = Minheap()
+    heap.addElement(2)
+    heap.addElement(3)
+    heap.addElement(10)
+    heap.addElement(20)
+    heap.addElement(6)
+
+    print(heap.poll())
+    print(heap.poll())
+    print(heap.poll())
+    print(heap.poll())
+    print(heap.poll())
+
 
 
 if __name__ == '__main__':
