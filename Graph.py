@@ -1,4 +1,6 @@
 import time
+from Heap import Heap
+
 
 class Vertex:
     __slots__ = "obstacle", "value", "edges"
@@ -98,6 +100,7 @@ def prepare_graph(maze):
 
     return graph
 
+
 def iddfs1(graph, depth, row, column):
     # for key, value in graph.vertices.items():
     #     print(key, value)
@@ -130,8 +133,7 @@ def iddfs1(graph, depth, row, column):
                 if key not in visited and current_depth <= depth:
                     to_explore[graph.getVertex(key)] = current_depth + 1
 
-
-    if depth%10 == 0:
+    if depth % 10 == 0:
         print(depth)
 
 
@@ -174,7 +176,7 @@ def iddfs(graph, depth, row, column):
                 if key not in visited:
                     to_explore.append(graph.getVertex(key))
 
-            current_depth += 1                      
+            current_depth += 1
 
 
     else:  # start point not present
@@ -189,24 +191,42 @@ def iddfs(graph, depth, row, column):
     print("_________________________*************************************_________________________")
 
 
-def a_star(graph, heuristic):
-    if heuristic == "euclidean":
+def a_star(graph, heuristic, rows, columns):
+    if heuristic == "manhattan":
+
         visited = list()
-        to_explore = list()
+        heap = Heap(rows * columns)
+        pathFound = False
+        depth = 0
 
         if (graph.getVertex(1)):
-            to_explore.append(graph.getVertex(1))
+            # to_explore.append(graph.getVertex(1))
+            heap.addElement(graph.getVertex(1))
 
-            while to_explore:
-                current = to_explore.pop()
+            while not heap.isempty():
+                depth += 1
+                if depth % 500 == 0:
+                    print(depth)
+                # current = to_explore.pop()
+                current = heap.poll()
+                # print(current.value)
+                if current.value == rows * columns:
+                    pathFound = True
+                    break
                 # print("current", current)
-                visited.append(current)
+                current_children = current.edges
 
-                # if current =
+                for key, value in current_children.items():
+                    if key not in visited:
+                        visited.append(key)
+                        heap.addElement(graph.getVertex(key))
+
+        if pathFound == True:
+            print("Path found at depth", depth)
         else:
             print("no path found")
 
-    elif heuristic == "manhattan":
+    elif heuristic == "euclidean":
         pass
 
     elif heuristic == "random":
@@ -217,6 +237,7 @@ def a_star(graph, heuristic):
 
 
 def main():
+    print("hello")
     # v7 = Vertex(7)
     # v5 = Vertex(5)
 
@@ -229,23 +250,46 @@ def main():
 
     # print(g.getVertex(v7))
 
-    maze = file_read("test.txt")
+    maze = file_read("test1")
     graph = prepare_graph(maze)
+    rows = len(maze)
+    columns = len(maze[0])
 
     # print(graph)
+
     start_time = time.time()
 
-    for i in range(10000):
-        path_found = iddfs1(graph, i, len(maze), len(maze[0]))
-        if path_found is True:
-            print("Path found at depth: ", i + 1)
-            break
+    # ************* IDDFS *************** #
+
+    # for i in range(rows * columns):
+    #     path_found = iddfs1(graph, i, rows, columns)
+    #     if path_found is True:
+    #         print("Path found at depth: ", i + 1)
+    #         break
+    #
+    # if path_found == False:
+    #     print("No path found.")
+
+    # ************* IDDFS *************** #
 
     print("Time taken in IDDFS -> %s seconds" % (time.time() - start_time))
+
+    print(len(maze), len(maze[0]))
+
+    # ************* A-Star *************** #
+
+    start_time = time.time()
+    print("A-Star started")
+
+    a_star(graph, "manhattan", rows, columns)
+
+    print("Time taken in A-Star -> %s seconds" % (time.time() - start_time))
+
+    # ************* A-Star *************** #
+
     #
     # for key, value in graph.vertices.items():
     #     print(key, value)
 
-
 if __name__ == '__main__':
-    main()
+        main()

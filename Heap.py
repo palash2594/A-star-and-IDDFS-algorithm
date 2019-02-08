@@ -1,8 +1,9 @@
-class Minheap:
-    __slots__ = "items"
+class Heap:
+    __slots__ = "items", "destination"
 
-    def __init__(self):
+    def __init__(self, destination):
         self.items = list()
+        self.destination = destination
 
     def getIndexOfLeftChild(self, parentIndex):
         return 2 * parentIndex + 1;
@@ -55,7 +56,7 @@ class Minheap:
     def heapifyUp(self):
         item = self.items[len(self.items) - 1]
         index = len(self.items) - 1
-        while self.hasParent(index) and self.parent(index) > self.items[index]:
+        while self.hasParent(index) and (self.destination - self.parent(index).value) > (self.destination - self.items[index].value):
             self.swap(index, self.getIndexOfParent(index))
             index = self.getIndexOfParent(index)
 
@@ -63,20 +64,23 @@ class Minheap:
         index = 0
         while self.hasLeftChild(index):
             smallerChildIndex = self.getIndexOfLeftChild(index)
-            if self.hasRightChild(index) and self.rightChild(index) < self.leftChild(index):
+            if self.hasRightChild(index) and (self.destination - self.rightChild(index).value) < (self.destination - self.leftChild(index).value):
                 smallerChildIndex = self.getIndexOfRightChild(index)
 
-            if self.items[smallerChildIndex] < self.items[index]:
+            if (self.destination - self.items[smallerChildIndex].value) < (self.destination - self.items[index].value):
                 self.swap(index, smallerChildIndex)
                 index = smallerChildIndex
 
             else:
                 break
 
+    def isempty(self):
+        return len(self.items) == 0
+
 def main():
     size = 0
     items = list()
-    heap = Minheap()
+    heap = Heap()
     heap.addElement(2)
     heap.addElement(3)
     heap.addElement(10)
