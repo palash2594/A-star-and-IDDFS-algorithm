@@ -192,49 +192,37 @@ def iddfs(graph, depth, row, column):
 
 
 def a_star(graph, heuristic, rows, columns):
-    if heuristic == "manhattan":
+    visited = list()
+    heap = Heap(rows * columns, heuristic, rows, columns)
+    pathFound = False
+    depth = 0
 
-        visited = list()
-        heap = Heap(rows * columns)
-        pathFound = False
-        depth = 0
+    if (graph.getVertex(1)):
+        # to_explore.append(graph.getVertex(1))
+        heap.addElement(graph.getVertex(1))
 
-        if (graph.getVertex(1)):
-            # to_explore.append(graph.getVertex(1))
-            heap.addElement(graph.getVertex(1))
+        while not heap.isempty():
+            depth += 1
+            if depth % 500 == 0:
+                print(depth)
+            # current = to_explore.pop()
+            current = heap.poll()
+            # print(current.value, "--> ", end=" ")
+            if current.value == rows * columns:
+                pathFound = True
+                break
+            # print("current", current)
+            current_children = current.edges
 
-            while not heap.isempty():
-                depth += 1
-                if depth % 500 == 0:
-                    print(depth)
-                # current = to_explore.pop()
-                current = heap.poll()
-                # print(current.value)
-                if current.value == rows * columns:
-                    pathFound = True
-                    break
-                # print("current", current)
-                current_children = current.edges
+            for key, value in current_children.items():
+                if key not in visited:
+                    visited.append(key)
+                    heap.addElement(graph.getVertex(key))
 
-                for key, value in current_children.items():
-                    if key not in visited:
-                        visited.append(key)
-                        heap.addElement(graph.getVertex(key))
-
-        if pathFound == True:
-            print("Path found at depth", depth)
-        else:
-            print("no path found")
-
-    elif heuristic == "euclidean":
-        pass
-
-    elif heuristic == "random":
-        pass
-
-    elif heuristic == "nocostdist":
-        pass
-
+    if pathFound == True:
+        print("Nodes explored", depth)
+    else:
+        print("no path found")
 
 def main():
     print("hello")
@@ -276,20 +264,57 @@ def main():
 
     print(len(maze), len(maze[0]))
 
-    # ************* A-Star *************** #
+    # ************* A-Star Manhattan*************** #
 
     start_time = time.time()
-    print("A-Star started")
+    print("A-Star (Manhattan) started")
 
     a_star(graph, "manhattan", rows, columns)
 
-    print("Time taken in A-Star -> %s seconds" % (time.time() - start_time))
+    print("Time taken in A-Star Manhattan -> %s seconds" % (time.time() - start_time))
 
-    # ************* A-Star *************** #
+    # ************* A-Star Manhattan *************** #
+
+    # ************* A-Star Euclidean *************** #
+
+    start_time = time.time()
+    print()
+    print("A-Star(Euclidean) started")
+
+    a_star(graph, "euclidean", rows, columns)
+
+    print("Time taken in A-Star Euclidean -> %s seconds" % (time.time() - start_time))
+
+    # ************* A-Star Euclidean *************** #
+
+    # ************* A-Star Random Heuristic *************** #
+
+    start_time = time.time()
+    print()
+    print("A-Star(Random Heuristic) started")
+
+    a_star(graph, "random", rows, columns)
+
+    print("Time taken in A-Star Random Heuristic -> %s seconds" % (time.time() - start_time))
+
+    # ************* A-Star Random Heuristic *************** #
+
+    # ************* A-Star No Cost Heuristic *************** #
+
+    start_time = time.time()
+    print()
+    print("A-Star(No Cost Heuristic) started")
+
+    a_star(graph, "nocost", rows, columns)
+
+    print("Time taken in A-Star No Cost Heuristic -> %s seconds" % (time.time() - start_time))
+
+    # ************* A-Star No Cost Heuristic *************** #
 
     #
     # for key, value in graph.vertices.items():
     #     print(key, value)
 
+
 if __name__ == '__main__':
-        main()
+    main()
